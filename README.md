@@ -12,5 +12,3 @@ you can:
 -leave the game and see what you accomplished
 -that's it
 -that's literally the game
-
-this is only here cus i wanted to know how to use github btw lol
