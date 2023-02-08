@@ -5,6 +5,7 @@ basically it's very simple pokemon-style but in java
 
 you can:
 -select which pokeeman you want to use
+<br>
 -see the pokeeman's bios and health
 -fight other pokeeman to catch them
 -run away like a little baby
